@@ -1,0 +1,5 @@
+
+A screenshot of the first time I answered the OEPS questionnaire is in:
+
+-  `preliminary_research/sampling_search_results/03-openpsychometrics-enneagram-tomh-screenshot.png` in the `five_factor_model` repo.
+
