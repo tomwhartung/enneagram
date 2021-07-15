@@ -22,7 +22,13 @@ Some links to sample questionnaires and more information:
   - List of open source personality tests
   - [openpsychometrics.org/tests/OEPS/](https://openpsychometrics.org/tests/OEPS/)
     - OEPS: Open Enneagram of Personality Scales
-    - See the `questionnaires/oeps` directory in this repo
+  - See the `questionnaires/oeps` directory in this repo for the questionnaire
+  - My results are in the following files in the `results/tomh` directory in this repo:
+    - `2020-ospp_enneagram_personality_scales_results.txt` and
+    - `2021_07_13-ospp_enneagram_personality_scales_results.png`
+- [www.eclecticenergies.com/enneagram/test](https://www.eclecticenergies.com/enneagram/test)
+  - Free questionnaire
+  - My results are in `results/tomh/2021_07_15-eclectic_energies-results.*`
 - [enneagram.bz/en](https://enneagram.bz/en)
   - Free questionnaire
 - [www.truity.com/test/enneagram-personality-test](https://www.truity.com/test/enneagram-personality-test)
