@@ -1,42 +1,66 @@
 
- questions-key-first_try-assesment.txt
----------------------------------------
+# items-key-4-first_try-checking_the_book.md
 
-**Assesment of FIRST TRY at reverse-engineering the open source Enneagram questionnaire.**
+**Continuing the assessment of my FIRST TRY at reverse-engineering the open source OEPS Enneagram test.**
 
-These show my first guess (in questions-key-first_try.txt) versus my hunch based on some of the site's js source code (see possibly_the_key.js).
+## Checking the Book
 
-Summary:
---------
-- 20 MATCHES - My first guess matches my hunch
-- 16 Bzzt! - My first guess does NOT match my hunch
+Looking at the 3 items for which my first guess, in `items-key-1-first_try.md`:
+
+1. Did NOT match my "educated guess" based on some of the site's js source code, saved in `items-key-javascript_code.md`
+   - I.e., items marked with "Bzzt!"
+2. Did NOT immediately seem "reasonable for this item"
+
+## Summary:
+
+- 20 **MATCHES**
+  - My first guess matches my js-informed "educated guess"
+- 16 **No match - bzzt:**
+  - My first guess does NOT match my js-informed "educated guess"
   - 13 are reasonable
   - 3 could be reasonable
 
-Checking the "could be reasonable" questions
---------------------------------------------
-Looking at the Summary of Type Discriminators on pp 56-68 of The Essential Enneagram by David Daniels and Virginia Price.
+## Checking the "could be reasonable" items
+
+Looking at the *Summary of Type Discriminators* section on pp 56-68 of *The Essential Enneagram* book by David Daniels and Virginia Price.
+
+### Item #4
+
 4. I have a hard time showing emotions.
+
 My guess: 3=Achiever,Performer versus group it is in: 5=Investigator,Observer
-Both types "can be oriented toward tasks [and] objectivity" (p. 61), so confusion is undertandable.
-A discriminating factor is sporadic activity (5=Observer) versus continuous activity (3=Performer).
-The discriminating factor is irrelevant to this question, so the hunches in the javascript look good!
+
+- Both types "can be oriented toward tasks [and] objectivity" (p. 61), so confusion is undertandable.
+- A discriminating factor is sporadic activity (5=Observer) versus continuous activity (3=Performer).
+
+The discriminating factor is irrelevant to this question, so the "educated guesses" based on the javascript look good!
+
+### Item #28
 
 28. I always try to break the tension with a good joke.
+
 7 could be reasonable for this item...
+
 My guess: 9=Peacemaker,Mediator versus group it is in: 7=Enthusiast,Epicure
-Both types "seek comfort" and "want to be liked and get along with others (p. 68), so confusion is undertandable.
-A discriminating factor is a "frenetic" and faster pace (7=Epicure) versus a "more even-tempered" and slower pace (9=Mediator).
-The discriminating factor is irrelevant to this question, so the hunches in the javascript look good!
+
+- Both types "seek comfort" and "want to be liked and get along with others (p. 68), so confusion is undertandable.
+- A discriminating factor is a "frenetic" and faster pace (7=Epicure) versus a "more even-tempered" and slower pace (9=Mediator).
+
+The discriminating factor is irrelevant to this question, so the "educated guesses" based on the javascript look good!
+
+### Item #29
 
 29. Fear of being taken advantage of keeps me from being more trusting.
-My guess: 8=Challenger,Protector versus group it is in: 6=Loyalist,Loyal Skeptic
-Both types "share a view of the world as unfriendly and untrustworthy" (p. 67).
-A discriminating factor is spontaneity: 6=Loyal Skeptics "usually have moments of fear or hesitation" while 8=Protectors "take action without hesitation" (p. 67).
-The discriminating factor is irrelevant to this question, so the hunches in the javascript look good!
 
-Questions, First Try Guesses, and My Hunch Based on Source Code
------------------------------------------------------------------------
+My guess: 8=Challenger,Protector versus group it is in: 6=Loyalist,Loyal Skeptic
+
+- Both types "share a view of the world as unfriendly and untrustworthy" (p. 67).
+- A discriminating factor is spontaneity: 6=Loyal Skeptics "usually have moments of fear or hesitation" while 8=Protectors "take action without hesitation" (p. 67).
+
+The discriminating factor is irrelevant to this question, so the "educated guesses" based on the javascript look good!
+
+## Items, First Try Guesses, and My Educated Guesses Based on the Javascript Source Code
+
 1. I have difficulty saying no.
 
 - 2 is my first guess
