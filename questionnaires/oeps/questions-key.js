@@ -1,5 +1,16 @@
 
-var itemtext = 
+# items-key-javascript_code.md
+
+This javascript is from the source html for a page from the open source OEPS Enneagram test at [openpsychometrics.org](https://openpsychometrics.org/).
+
+## Javascript Code
+
+The following code was copied-and-pasted from a page such as:
+
+- [openpsychometrics.org/tests/OEPS/1.php](https://openpsychometrics.org/tests/OEPS/1.php)
+
+```javascript
+var itemtext =
 
 {
 
@@ -94,5 +105,5 @@ var itemtext =
  "Q36" : "I avoid confrontation."
 
 };
-
+```
 
