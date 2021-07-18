@@ -1,10 +1,10 @@
 
- questions-raw.txt
--------------------
+# items-with-answer_checkboxes.md
 
-Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tests/OEPS/](https://openpsychometrics.org/tests/OEPS/).
+Items copied-and-pasted from the open source OEPS Enneagram questionnaire at [openpsychometrics.org/tests/OEPS/](https://openpsychometrics.org/tests/OEPS/).
 
 1. I have difficulty saying no.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -12,6 +12,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 2. I really enjoy feeling bitter sweet.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -19,6 +20,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 3. Money is important to my happiness.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -26,6 +28,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 4. I have a hard time showing emotions.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -33,6 +36,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 5. I cry.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -40,6 +44,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 6. I get lots of satisfaction from helping others achieve their goals.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -47,6 +52,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 7. I must always be having new experiences.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -54,6 +60,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 8. I like to stand out.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -61,6 +68,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 9. I am uninhibited.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -68,6 +76,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 10. I keep my thoughts to myself, to prevent trouble.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -75,6 +84,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 11. I am very accepting and flexible.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -82,6 +92,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 12. I avoid confrontation.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -89,6 +100,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 13. I daydream about being in love.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -96,6 +108,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 14. I want people to tell me the truth, not spare my feelings.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -103,6 +116,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 15. I am a perfectionist.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -110,6 +124,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 16. I like mental challenges.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -117,6 +132,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 17. I often have to redo other peoples work.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -124,6 +140,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 18. I side with the rebels over the establishment.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -131,6 +148,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 19. I put work first.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -138,6 +156,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 20. I naturally emerge as a leader.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -145,6 +164,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 21. I spend hours alone with my hobbies.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -152,6 +172,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 22. My relationships with others are what my life is about.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -159,6 +180,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 23. I spend most of my time trying to understand things.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -166,6 +188,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 24. I get input from others before I make a decision.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -173,6 +196,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 25. It is good to wake up to a full day of planned activities.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -180,6 +204,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 26. I keep my belongings in order.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -187,6 +212,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 27. When other people are arguing, I leave the room.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -194,6 +220,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 28. I always try to break the tension with a good joke.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -201,6 +228,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 29. Fear of being taken advantage of keeps me from being more trusting.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -208,6 +236,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 30. I put family first.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -215,6 +244,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 31. I prefer it when leaders are decisive.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -222,6 +252,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 32. I can keep a conversation going with anyone about anything.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -229,6 +260,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 33. I conform.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -236,6 +268,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 34. I like a conversation where no one agrees.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -243,6 +276,7 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 35. I am loyal.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
@@ -250,10 +284,10 @@ Questions copied-and-pasted from the questionnaire at [openpsychometrics.org/tes
 - [ ] Agree
 
 36. I strive for efficiency.
+
 - [ ] Disagree
 - [ ] Slightly disagree
 - [ ] Neutral
 - [ ] Slightly agree
 - [ ] Agree
-
 
