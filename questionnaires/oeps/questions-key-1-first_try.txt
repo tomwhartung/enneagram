@@ -1,10 +1,13 @@
 
- questions-key-first_try.txt
------------------------------
+# items-key-1-first_try.md
 
-**FIRST TRY at reverse-engineering the open source Enneagram questionnaire.**
+**FIRST TRY at reverse-engineering the open source OEPS Enneagram test.**
 
-**I NEED TO TEST THESE SOMEHOW BEFORE USING THEM FOR REALS!!**
+## Items and Hunches - First Guesses
+
+These guesses are based on my hunch or "first guess" - which at this point is not very informed - because I've just started learning about all this.
+
+**I NEED TO VERIFY OR TEST THESE SOMEHOW BEFORE USING THEM FOR REALS!!**
 
 1. I have difficulty saying no.
 
