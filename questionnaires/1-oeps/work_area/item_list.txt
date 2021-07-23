@@ -1,109 +1,91 @@
 
-# items-key-javascript_code.md
+// 1
 
-This javascript is from the source html for a page from the open source OEPS Enneagram test at [openpsychometrics.org](https://openpsychometrics.org/).
+"I am a perfectionist.",
 
-## Javascript Code
+"I strive for efficiency.",
 
-The following code was copied-and-pasted from a page such as:
+"I often have to redo other peoples work.",
 
-- [openpsychometrics.org/tests/OEPS/1.php](https://openpsychometrics.org/tests/OEPS/1.php)
+"I keep my belongings in order.",
 
-```javascript
-var itemtext =
+// 2
 
-{
+"My relationships with others are what my life is about.",
 
- // 1
+"I have difficulty saying no.",
 
- "Q1" : "I am a perfectionist.",
+"I get lots of satisfaction from helping others achieve their goals.",
 
- "Q2" : "I strive for efficiency.",
+"I put family first.",
 
- "Q3" : "I often have to redo other peoples work.",
+// 3
 
- "Q4" : "I keep my belongings in order.",
+"I put work first.",
 
- // 2
+"I like to stand out.",
 
- "Q5" : "My relationships with others are what my life is about.",
+"It is good to wake up to a full day of planned activities.",
 
- "Q6" : "I have difficulty saying no.",
+"Money is important to my happiness.",
 
- "Q7" : "I get lots of satisfaction from helping others achieve their goals.",
+// 4
 
- "Q8" : "I put family first.",
+"I daydream about being in love.",
 
- // 3
+"I really enjoy feeling bitter sweet.",
 
- "Q9" : "I put work first.",
+"I cry.",
 
- "Q10" : "I like to stand out.",
+"I side with the rebels over the establishment.",
 
- "Q11" : "It is good to wake up to a full day of planned activities.",
+// 5
 
- "Q12" : "Money is important to my happiness.",
+"I have a hard time showing emotions.",
 
- // 4
+"I spend hours alone with my hobbies.",
 
- "Q13" : "I daydream about being in love.",
+"I spend most of my time trying to understand things.",
 
- "Q14" : "I really enjoy feeling bitter sweet.",
+"I like mental challenges.",
 
- "Q15" : "I cry.",
+// 6
 
- "Q16" : "I side with the rebels over the establishment.",
+"Fear of being taken advantage of keeps me from being more trusting.",
 
- // 5
+"I get input from others before I make a decision.",
 
- "Q17" : "I have a hard time showing emotions.",
+"I conform.",
 
- "Q18" : "I spend hours alone with my hobbies.",
+"I am loyal.",
 
- "Q19" : "I spend most of my time trying to understand things.",
+// 7
 
- "Q20" : "I like mental challenges.",
+"I must always be having new experiences.",
 
- // 6
+"I can keep a conversation going with anyone about anything.",
 
- "Q21" : "Fear of being taken advantage of keeps me from being more trusting.",
+"I am uninhibited.",
 
- "Q22" : "I get input from others before I make a decision.",
+"I always try to break the tension with a good joke.",
 
- "Q23" : "I conform.",
+// 8
 
- "Q24" : "I am loyal.",
+"I naturally emerge as a leader.",
 
- // 7
+"I like a conversation where no one agrees.",
 
- "Q25" : "I must always be having new experiences.",
+"I want people to tell me the truth, not spare my feelings.",
 
- "Q26" : "I can keep a conversation going with anyone about anything.",
+"I prefer it when leaders are decisive.",
 
- "Q27" : "I am uninhibited.",
+// 9
 
- "Q28" : "I always try to break the tension with a good joke.",
+"When other people are arguing, I leave the room.",
 
- // 8
+"I keep my thoughts to myself, to prevent trouble.",
 
- "Q29" : "I naturally emerge as a leader.",
+"I am very accepting and flexible.",
 
- "Q30" : "I like a conversation where no one agrees.",
-
- "Q31" : "I want people to tell me the truth, not spare my feelings.",
-
- "Q32" : "I prefer it when leaders are decisive.",
-
- // 9
-
- "Q33" : "When other people are arguing, I leave the room.",
-
- "Q34" : "I keep my thoughts to myself, to prevent trouble.",
-
- "Q35" : "I am very accepting and flexible.",
-
- "Q36" : "I avoid confrontation."
-
-};
-```
+"I avoid confrontation."
 
