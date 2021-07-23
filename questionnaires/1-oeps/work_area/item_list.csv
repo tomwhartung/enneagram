@@ -1,91 +1,36 @@
-
-// 1
-
-"I am a perfectionist.",
-
-"I strive for efficiency.",
-
-"I often have to redo other peoples work.",
-
-"I keep my belongings in order.",
-
-// 2
-
-"My relationships with others are what my life is about.",
-
-"I have difficulty saying no.",
-
-"I get lots of satisfaction from helping others achieve their goals.",
-
-"I put family first.",
-
-// 3
-
-"I put work first.",
-
-"I like to stand out.",
-
-"It is good to wake up to a full day of planned activities.",
-
-"Money is important to my happiness.",
-
-// 4
-
-"I daydream about being in love.",
-
-"I really enjoy feeling bitter sweet.",
-
-"I cry.",
-
-"I side with the rebels over the establishment.",
-
-// 5
-
-"I have a hard time showing emotions.",
-
-"I spend hours alone with my hobbies.",
-
-"I spend most of my time trying to understand things.",
-
-"I like mental challenges.",
-
-// 6
-
-"Fear of being taken advantage of keeps me from being more trusting.",
-
-"I get input from others before I make a decision.",
-
-"I conform.",
-
-"I am loyal.",
-
-// 7
-
-"I must always be having new experiences.",
-
-"I can keep a conversation going with anyone about anything.",
-
-"I am uninhibited.",
-
-"I always try to break the tension with a good joke.",
-
-// 8
-
-"I naturally emerge as a leader.",
-
-"I like a conversation where no one agrees.",
-
-"I want people to tell me the truth, not spare my feelings.",
-
-"I prefer it when leaders are decisive.",
-
-// 9
-
-"When other people are arguing, I leave the room.",
-
-"I keep my thoughts to myself, to prevent trouble.",
-
-"I am very accepting and flexible.",
-
-"I avoid confrontation."
-
+"I am a perfectionist.", 1
+"I strive for efficiency.", 1
+"I often have to redo other peoples work.", 1
+"I keep my belongings in order.", 1
+"My relationships with others are what my life is about.", 2
+"I have difficulty saying no.", 2
+"I get lots of satisfaction from helping others achieve their goals.", 2
+"I put family first.", 2
+"I put work first.", 3
+"I like to stand out.", 3
+"It is good to wake up to a full day of planned activities.", 3
+"Money is important to my happiness.", 3
+"I daydream about being in love.", 4
+"I really enjoy feeling bitter sweet.", 4
+"I cry.", 4
+"I side with the rebels over the establishment.", 4
+"I have a hard time showing emotions.", 5
+"I spend hours alone with my hobbies.", 5
+"I spend most of my time trying to understand things.", 5
+"I like mental challenges.", 5
+"Fear of being taken advantage of keeps me from being more trusting.", 6
+"I get input from others before I make a decision.", 6
+"I conform.", 6
+"I am loyal.", 6
+"I must always be having new experiences.", 7
+"I can keep a conversation going with anyone about anything.", 7
+"I am uninhibited.", 7
+"I always try to break the tension with a good joke.", 7
+"I naturally emerge as a leader.", 8
+"I like a conversation where no one agrees.", 8
+"I want people to tell me the truth, not spare my feelings.", 8
+"I prefer it when leaders are decisive.", 8
+"When other people are arguing, I leave the room.", 9
+"I keep my thoughts to myself, to prevent trouble.", 9
+"I am very accepting and flexible.", 9
+"I avoid confrontation.", 9
