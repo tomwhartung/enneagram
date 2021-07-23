@@ -1,7 +1,8 @@
 
 # introduction.md
 
-Text of the introduction to this questionnaire on [openpsychometrics.org](https://openpsychometrics.org)
+Text of the introduction to this questionnaire at [openpsychometrics.org/tests/OEPS/](https://openpsychometrics.org/tests/OEPS/)
+ [openpsychometrics.org](https://openpsychometrics.org)
 
 ## Open Enneagram of Personality Scales
 
