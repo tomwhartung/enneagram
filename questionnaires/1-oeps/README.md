@@ -3,6 +3,12 @@
 
 Files and directories pertaining to the Open Enneagram of Personality Scales questionnaire.
 
+## Questionnaire
+
+A spreadsheet containing the questionnaire is the final product.
+
+It is a file named `oeps-36_items.ods` and is in this directory.
+
 ## Links
 
 - Where I found this questionnaire:
