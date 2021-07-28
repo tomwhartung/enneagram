@@ -1,5 +1,5 @@
 
-Paraphrased Items for Type 1, The Perfectionist
+Paraphrased Items for Type 1, The Perfectionist (9)
 - I keep things organized
 - I am punctual and prefer being early to being late
 - I tend to follow the rules
@@ -10,7 +10,7 @@ Paraphrased Items for Type 1, The Perfectionist
 - I worry about many things, especially inconsistencies
 - I am practical and realistic
 
-Paraphrased Items for Type 2, The Helper
+Paraphrased Items for Type 2, The Helper (9)
 - I often prioritize others' needs over my own
 - I like to get along with people
 - I can be sensitive at times
@@ -33,7 +33,7 @@ Paraphrased Items for Type 3, The Achiever (10)
 - Others sometimes look to me for direction
 - Schedules and to-do lists help me keep on track and get things done
 
-Paraphrased Items for Type 4, The Romantic
+Paraphrased Items for Type 4, The Romantic (9)
 - I like it when people understand me
 - Current events sometimes make me depressed and even upset
 - I want to be there for my friends when they are sad
@@ -44,7 +44,7 @@ Paraphrased Items for Type 4, The Romantic
 - I sometimes get lost in a pit of depression
 - I can be controlling at times
 
-Paraphrased Items for Type 5, The Observer
+Paraphrased Items for Type 5, The Observer (9)
 - I enjoy reading, learning, and watching
 - I am individualistic and not afraid to be different
 - I prefer ideas to material possessions
@@ -55,13 +55,21 @@ Paraphrased Items for Type 5, The Observer
 - I can be cynical and skpetical of others' expertise
 - Sometimes I hide my inner conflict behind a calm exterior
 
-Paraphrased Items for Type 6, The Questioner
+Paraphrased Items for Type 6, The Questioner (9)
+- I am alert and cautious
+- I tend to doubt those in authority
+- I am usually a bit more serious than other people
+- I can sometimes be my own worst enemy
+- I try to follow the rules, but sometimes need to break them
+- I work hard and am supportive of others
+- I sometimes worry, even when things are going well
+- I suspect that fake, pretentious people are hiding something
+- "Flattery will get you nowhere"
+
+Paraphrased Items for Type 7, The Adventurer (9)
 - 
 
-Paraphrased Items for Type 7, The Adventurer
-- 
-
-Paraphrased Items for Type 8, The Asserter
+Paraphrased Items for Type 8, The Asserter (10)
 - 
 
 Paraphrased Items for Type 9, The Peacemaker
