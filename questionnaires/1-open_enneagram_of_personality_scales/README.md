@@ -1,13 +1,13 @@
 
-# questionnaires/oeps/README.md
+# questionnaires/1-open_enneagram_of_personality_scales/README.md
 
-Files and directories pertaining to the Open Enneagram of Personality Scales questionnaire.
+Files and directories pertaining to the *Open Enneagram of Personality Scales* questionnaire.
 
 ## Questionnaire
 
-A spreadsheet containing the questionnaire is the final product.
+A spreadsheet containing the questionnaire is in this directory, in a file named:
 
-It is a file named `oeps-36_items.ods` and is in this directory.
+- `oeps-36_items.ods`
 
 ## Links
 
@@ -27,6 +27,7 @@ It is a file named `oeps-36_items.ods` and is in this directory.
 - `items_and_key/`
   - directory containing the list of items comprising the questionnaire
   - files showing how I figured out and verified the key to the items
+  - it turns out that following a link on the introductory page for the questionnaire would've saved me a bit of trouble!  Oh well!!
 - `work_area`
   - directory containing intermediary copies of the questionnaire as I was working on it
 
