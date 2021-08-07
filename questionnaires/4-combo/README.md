@@ -5,8 +5,16 @@ About the combo questionnaires, that contain items from the first three question
 
 ## The Idea
 
+Have a *best combo* questionnaire and a *combo questionnaire with extra items.*
+
 - Make one 180-item questionnaire with the best 20 items for each type
+  - 4 "oeps" items from `../1-open_enneagram_of_personality_scales`
+  - 8 "teme" items from `../2-the_enneagram_made_easy`
+  - 8 "twote" items from `../3-the_wisdom_of_the_enneagram`
 - Make another 225-item questionnaire with all 25 items for each type
+  - 4 "oeps" items from `../1-open_enneagram_of_personality_scales`
+  - 9 "teme" items from `../2-the_enneagram_made_easy`
+  - 12 "twote" items from `../3-the_wisdom_of_the_enneagram`
 
 The idea is to:
 
@@ -15,12 +23,10 @@ The idea is to:
 
 ## Questionnaires
 
-Spreadsheets containing the questionnaires are in files named:
+Spreadsheets containing the questionnaires are in this directory, in files named:
 
-- `combo-180_items.ods` and
-- `combo-225_items.ods`
-
-in this directory.
+- `combo-180_items-best.ods` and
+- `combo-225_items-with_extras.ods`
 
 ## Directories
 
